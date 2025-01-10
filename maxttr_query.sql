@@ -1,0 +1,1 @@
+select * from prdodi.w_srvreq_d;
